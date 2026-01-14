@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cardItem.onclick = () => openLightbox(index);
         
         const cardName = cardFile.replace('.png', '');
-        const cardPath = `${currentSet.folder}/${cardFile}`;
+        const cardPath = `${currentSet.folder}/${encodeURIComponent(cardFile)}`;
         
         cardItem.innerHTML = `
             <img src="${cardPath}" alt="${cardName}" loading="lazy">
@@ -263,7 +263,7 @@ function closeLightbox() {
 
 function updateLightbox() {
     const cardFile = currentCards[currentCardIndex];
-    const cardPath = `${currentSet.folder}/${cardFile}`;
+    const cardPath = `${currentSet.folder}/${encodeURIComponent(cardFile)}`;
     const cardName = cardFile.replace('.png', '');
     
     document.getElementById('lightbox-img').src = cardPath;
