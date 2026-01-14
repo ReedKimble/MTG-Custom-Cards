@@ -11,6 +11,7 @@ This repository contains the following custom Magic: The Gathering card sets:
 
 - **Eternia** - 42 cards inspired by He-Man and the Masters of the Universe
 - **Urza and the Ozolith** - 61 cards featuring Arcbound and Ozobound mechanics
+- **The Sword of Truth** - 55 cards inspired by The Sword of Truth series by Terry Goodkind
 
 ## About
 
