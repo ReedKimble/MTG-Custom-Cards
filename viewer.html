@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Viewer - MTG Custom Cards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="back-button">← Back to Sets</a>
+            <h1 id="set-title">Card Set</h1>
+        </div>
+    </header>
+    
+    <main class="viewer-container">
+        <div class="cards-grid" id="cards-grid">
+            <!-- Cards will be loaded dynamically -->
+        </div>
+    </main>
+    
+    <div id="lightbox" class="lightbox" style="display: none;">
+        <div class="lightbox-content">
+            <span class="close-lightbox">&times;</span>
+            <img id="lightbox-img" src="" alt="Card">
+            <div class="lightbox-nav">
+                <button id="prev-btn" class="nav-btn">← Previous</button>
+                <span id="card-counter"></span>
+                <button id="next-btn" class="nav-btn">Next →</button>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Magic: The Gathering Custom Card Sets</p>
+    </footer>
+    
+    <script src="viewer.js"></script>
+</body>
+</html>
