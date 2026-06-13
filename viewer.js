@@ -119,12 +119,12 @@ const sets = {
         name: 'Ozo Engines',
         folder: 'Mini-Sets/Ozo Engine',
         cards: [
-            "Ozo-Peek Engine.png",
-            "Ozo-Push Engine.png",
-            "Ozo-Pop Engine.png",
-            "Ozo-Swap Engine.png",
-            "Ozo-Rotate Engine.png",
-            "Ozo-Duplicate Engine.png",
+            'Ozo-Peek Engine.png',
+            'Ozo-Push Engine.png',
+            'Ozo-Pop Engine.png',
+            'Ozo-Swap Engine.png',
+            'Ozo-Rotate Engine.png',
+            'Ozo-Duplicate Engine.png',
             "Urza's Ozo Console.png"
         ]
     },
