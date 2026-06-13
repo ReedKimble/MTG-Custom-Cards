@@ -125,7 +125,7 @@ const sets = {
             'Ozo-Swap Engine.png',
             'Ozo-Rotate Engine.png',
             'Ozo-Duplicate Engine.png',
-            'Urzas Ozo Console.png'
+            "Urza's Ozo Console.png"
         ]
     },
     'Sword-of-Truth': {
