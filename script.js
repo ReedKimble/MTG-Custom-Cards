@@ -128,6 +128,19 @@ const sets = {
             "Urza's Ozo Console.png"
         ]
     },
+    'Catasrophic': {
+        name: 'Catasrophic',
+        folder: 'Mini-Sets/Catasrophic',
+        cards: [
+            'Catastrophe.png',
+            'Deforestation.png',
+            'Drain the Swamp.png',
+            'Medical Mishap.png',
+            'Mutually Assured Destruction.png',
+            'Rising Sea Levels.png'
+            // Add card filenames here
+        ]
+    },
     'Sword-of-Truth': {
         name: 'Sword of Truth',
         folder: 'Mini-Sets/Sword-of-Truth',
