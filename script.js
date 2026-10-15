@@ -128,9 +128,9 @@ const sets = {
             "Urza's Ozo Console.png"
         ]
     },
-    'Catasrophic': {
-        name: 'Catasrophic',
-        folder: 'Mini-Sets/Catasrophic',
+    'Catastrophic': {
+        name: 'Catastrophic',
+        folder: 'Mini-Sets/Catastrophic',
         cards: [
             'Catastrophe.png',
             'Deforestation.png',
