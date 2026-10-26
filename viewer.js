@@ -48,6 +48,29 @@ const sets = {
             'Until We Meet Again.png'
         ]
     },
+    'Futurama': {
+        name: 'Futurama',
+        folder: 'Mini-Sets/Futurama',
+        cards: [
+            'Amy Wong.png',
+            'Bender Bending Rodriguez.png',
+            'Dr John A Zoidberg.png',
+            'Hedonismbot.png',
+            'Hermes Conrad.png',
+            'Hubert J Farnsworth.png',
+            'KKif Kroker.png',
+            'Orphan Sally Three Ears.png',
+            'Philip J Fry.png',
+            'Planet Express Ship.png',
+            'Reverend Lionel Preacherbot.png',
+            "Roberto.png",
+            "Robot Devil.png",
+            "Seymour Asses.png",
+            'Turanga Leela.png',
+            'Zapp Brannigan.png'
+            // Add card filenames here
+        ]
+    },
     'Urza-and-the-Ozolith': {
         name: 'Urza and the Ozolith',
         folder: 'Mini-Sets/Urza-and-the-Ozolith',
