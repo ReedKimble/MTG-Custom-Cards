@@ -55,6 +55,7 @@ const sets = {
             'Amy Wong.png',
             'Bender Bending Rodriguez.png',
             'Dr John A Zoidberg.png',
+            'Headless Body of Spiro Agnew.png',
             'Hedonismbot.png',
             'Hermes Conrad.png',
             'Hubert J Farnsworth.png',
