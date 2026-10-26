@@ -58,7 +58,7 @@ const sets = {
             'Hedonismbot.png',
             'Hermes Conrad.png',
             'Hubert J Farnsworth.png',
-            'KKif Kroker.png',
+            'Kif Kroker.png',
             'Orphan Sally Three Ears.png',
             'Philip J Fry.png',
             'Planet Express Ship.png',
