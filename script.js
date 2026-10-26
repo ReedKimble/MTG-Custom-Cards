@@ -63,6 +63,7 @@ const sets = {
             'Philip J Fry.png',
             'Planet Express Ship.png',
             'Reverend Lionel Preacherbot.png',
+            'Richard M Nixons Head.png',
             "Roberto.png",
             "Robot Devil.png",
             "Scruffy.png",
