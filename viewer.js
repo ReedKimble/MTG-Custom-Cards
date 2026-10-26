@@ -65,6 +65,7 @@ const sets = {
             'Reverend Lionel Preacherbot.png',
             "Roberto.png",
             "Robot Devil.png",
+            "Scruffy.png",
             "Seymour Asses.png",
             'Turanga Leela.png',
             'Zapp Brannigan.png'
