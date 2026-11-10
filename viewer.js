@@ -82,15 +82,21 @@ const sets = {
         folder: 'Mini-Sets/Radioactive',
         cards: [
             'Eradicate Radiation.png',
+            'Irradiated Meteor Storm.png',
+            'Irradiated Zombie.png',
             'Liquid Shielding.png',
             'Mox Uranium.png',
+            'Nuclear Automaton.png',
             'Toxic Blood Infusion.png',
             'Uranium Construct.png',
             'Uranium Elemental.png',
+            'Uranium Golem.png',
+            'Uranium Mine.png',
             "Uranium Miners.png",
             "Uranium Myr.png",
             "Uranium-Infused Baloth.png",
-            "Uranium-Infused Carp.png"
+            "Uranium-Infused Carp.png",
+            "Uranium.png"
         ]
     },
     'Urza-and-the-Ozolith': {
