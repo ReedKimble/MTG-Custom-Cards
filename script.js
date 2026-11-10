@@ -77,6 +77,22 @@ const sets = {
             // Add card filenames here
         ]
     },
+    'Radioactive':{
+        name: 'Radioactive',
+        folder: 'Mini-Sets/Radioactive',
+        cards: [
+            'Eradicate Radiation.png',
+            'Liquid Shielding.png',
+            'Mox Uranium.png',
+            'Toxic Blood Infusion.png',
+            'Uranium Construct.png',
+            'Uranium Elemental.png',
+            "Uranium Miners.png",
+            "Uranium Myr.png",
+            "Uranium-Infused Baloth.png",
+            "Uranium-Infused Carp.png"
+        ]
+    },
     'Urza-and-the-Ozolith': {
         name: 'Urza and the Ozolith',
         folder: 'Mini-Sets/Urza-and-the-Ozolith',
