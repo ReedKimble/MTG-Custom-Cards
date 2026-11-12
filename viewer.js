@@ -77,6 +77,15 @@ const sets = {
             // Add card filenames here
         ]
     },
+    'Star Trek Missing Cards':{
+        name: 'Star Trek Missing Cards',
+        folder: 'Mini-Sets/Star Trek Missing Cards',
+        cards: [
+            // Add card filenames here
+            "Calrissian Chameleon Tank.png",
+            "Secret Stash of Cheese.png"
+        ]
+    },
     'Radioactive':{
         name: 'Radioactive',
         folder: 'Mini-Sets/Radioactive',
